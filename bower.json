@@ -1,0 +1,18 @@
+{
+  "name": "fe-polyfills",
+  "main": "fe-polyfills.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Groupe-Atallah/SSENSE-Website",
+  "authors": [
+    "Todd Beauchamp <toddbee@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/fe",
+    "test",
+    "tests"
+  ]
+}
